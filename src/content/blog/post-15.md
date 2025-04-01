@@ -14,16 +14,12 @@ seo:
 
 Este es el contenido del blog
 
-## ¿Qué es bicing Barcelona?
+## What is Bicing Barcelona?
 
-​Bicig Barcelona es un servicio de alquiler de bicicletas que se implementó en 2007 en la ciudad de Barcelona, diseñado para ofrecer a residentes y visitantes una forma sostenible y práctica de desplazarse por la ciudad. El sistema permite alquilar bicicletas en diversos puntos estratégicos de Barcelona, facilitando el acceso a este medio de transporte ecológico.​
+Bicing Barcelona is a bicycle rental service introduced in 2007 in the city of Barcelona, designed to provide residents and visitors with a sustainable and practical way to get around the city. The system allows users to rent bicycles from various strategic points across Barcelona, making this eco-friendly mode of transportation more accessible.
 
-Para utilizar Bicig Barcelona, los usuarios deben registrarse en la plataforma y seleccionar el tipo de bicicleta que desean alquilar. El servicio ofrece diferentes opciones de alquiler, adaptadas a las necesidades de cada usuario, ya sea para trayectos cortos o para uso prolongado.​
+To use Bicing Barcelona, users must register on the platform and select the type of bicycle they wish to rent. The service offers different rental options tailored to each user's needs, whether for short trips or extended use. Bicing Barcelona contributes to sustainable mobility in the city by reducing traffic congestion and promoting a healthy lifestyle among its users.
 
-Bicig Barcelona contribuye a la movilidad sostenible en la ciudad, reduciendo la congestión vehicular y promoviendo un estilo de vida saludable entre sus usuarios.
 
-## Problema a resolver
-Algunos de los problemas a los que se enfrentan los usuarios de bicing  
-
-Aunque Bicing ofrece muchas ventajas, su efectividad depende de la cantidad de bicicletas y espacios de anclaje disponibles en cada estación. Los usuarios pueden enfrentarse a dificultades si, al llegar, no encuentran bicicletas para usar o lugares donde devolverlas. Este inconveniente es más notable en horas pico y en áreas con alta demanda. Para garantizar una mejor experiencia y un funcionamiento más eficiente del servicio, es esencial anticipar con precisión la disponibilidad de bicicletas y espacios de anclaje.
-
+## Challenge
+Although Bicing offers many benefits, its effectiveness depends on the number of bikes and docking spaces available at each station. Users may face difficulties if, upon arrival, they find no bikes to use or spaces to return them. This issue is more noticeable during peak hours and in areas with high demand. To ensure a better experience and more efficient service operation, it is essential to accurately predict the availability of bikes and docking spaces.
