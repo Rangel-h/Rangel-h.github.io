@@ -29,7 +29,11 @@ Although Bicing offers many benefits, its effectiveness depends on the number of
 In this project, we aim to develop a predictive model to Predict the percentage of free docks at Bicing stations in Barcelona given the historical data of each station, furthermore we leveraged other geographical and temporal data. To achieve this goal we followed the next steps:
 
 Data collection and cleaning
+
 Data analysis
+
 Development of machine learning models
+
 Predicts the availability of free docks
+
 Create a Streamlit app to visualize the predictions
