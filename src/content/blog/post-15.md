@@ -37,3 +37,20 @@ Development of machine learning models
 Predicts the availability of free docks
 
 Create a Streamlit app to visualize the predictions
+
+## Data collection and cleaning
+We began downloading the datasets from the "Open Data BCN" website:
+
+https://opendata-ajuntament.barcelona.cat/data/ca/dataset/estat-estacions-bicing
+
+The datasets contained data about bike availability from the years 2020, 2021, 2022, 2023 (January-december) and 2024(January- May).
+
+![A person standing at the window](/post-1.jpg)
+
+## Data analysis
+
+## Development of machine learning models
+
+## Predict the availability of free docks
+
+## Create a Streamlit app to visualize the predictions
