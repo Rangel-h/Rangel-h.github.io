@@ -22,12 +22,8 @@ Para utilizar Bicig Barcelona, los usuarios deben registrarse en la plataforma y
 
 Bicig Barcelona contribuye a la movilidad sostenible en la ciudad, reduciendo la congestión vehicular y promoviendo un estilo de vida saludable entre sus usuarios.
 
-## Cabecera 2
+## Problema a resolver
+Algunos de los problemas a los que se enfrentan los usuarios de bicing  
 
-Contenido 2
+Aunque Bicing ofrece muchas ventajas, su efectividad depende de la cantidad de bicicletas y espacios de anclaje disponibles en cada estación. Los usuarios pueden enfrentarse a dificultades si, al llegar, no encuentran bicicletas para usar o lugares donde devolverlas. Este inconveniente es más notable en horas pico y en áreas con alta demanda. Para garantizar una mejor experiencia y un funcionamiento más eficiente del servicio, es esencial anticipar con precisión la disponibilidad de bicicletas y espacios de anclaje.
 
-'''kotlin
-fun main(){
-    print("Hello world!")
-}
-'''
