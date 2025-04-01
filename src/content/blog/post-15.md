@@ -43,9 +43,10 @@ We began downloading the datasets from the "Open Data BCN" website:
 
 https://opendata-ajuntament.barcelona.cat/data/ca/dataset/estat-estacions-bicing
 
-The datasets contained data about bike availability from the years 2020, 2021, 2022, 2023 (January-december) and 2024(January- May).
+The datasets contained data about bike availability from the years 2020, 2021, 2022, 2023 (January-December) and 2024(January- May).
 
 ![A person standing at the window](/Dataset1.png)
+![A person standing at the window](/Dataset2.png)
 
 ## Data analysis
 
