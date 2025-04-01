@@ -14,11 +14,11 @@ seo:
 
 Este es el contenido del blog
 
-##Cabecera 1
+## Cabecera 1
 
 Contenido 1
 
-##Cabecera 2
+## Cabecera 2
 
 Contenido 2
 
