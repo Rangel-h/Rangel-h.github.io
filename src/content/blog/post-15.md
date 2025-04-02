@@ -15,7 +15,7 @@ seo:
 In this project we aim to predict the percentage of free docks given the historical data of each
 station of Bicing Barcelona.
 
-# What is Bicing Barcelona?
+# Bicing Barcelona
 
 Bicing Barcelona is a bicycle rental service introduced in 2007 in the city of Barcelona, designed to provide residents and visitors with a sustainable and practical way to get around the city. The system allows users to rent bicycles from various strategic points across Barcelona, making this eco-friendly mode of transportation more accessible.
 
@@ -27,7 +27,7 @@ Although Bicing offers many benefits, its effectiveness depends on the number of
 
 # The project
 
-In this project, we aim to develop a predictive model to Predict the percentage of free docks at Bicing stations in Barcelona given the historical data of each station, furthermore we leveraged other geographical and temporal data. To achieve this goal we followed the next steps:
+In this project, we aim to develop a predictive model to predict the percentage of free docks at Bicing stations in Barcelona given the historical data of each station, furthermore we leveraged other geographical and temporal data. To achieve this goal we followed the next steps:
 
 Data collection and cleaning
 
