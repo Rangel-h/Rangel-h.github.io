@@ -101,8 +101,8 @@ const siteConfig: SiteConfig = {
         title: 'Hi There & Welcome to My Corner of the Web!',
         text: "The cradle rocks above an abyss, and common sense tells us that our existence is but a brief crack of light between two eternities of darkness.",
         image: {
-            src: '/hero.jpeg',
-            alt: 'A person sitting at a desk in front of a computer'
+            src: '/Nighthawks.jpg',
+            alt: 'Nighthawks'
         },
         actions: [
             {
