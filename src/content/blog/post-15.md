@@ -48,6 +48,10 @@ The datasets contained data about bike availability from the years 2020, 2021, 2
 ![A person standing at the window](/Dataset1.png)
 ![A person standing at the window](/Dataset2.png)
 
+Some colummns and rows were droped from the datasets, either because they were empty, they had NAN values, or they didn't provide relevant information for the purpose of this project. Since weather conditions can influence whether a person chooses to use a bicycle as a means of transportation, we added weather information to the dataset.
+
+
+
 ## Data analysis
 
 ## Development of machine learning models
