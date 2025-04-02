@@ -55,14 +55,13 @@ To predict the percentage of free docks we used two machine learning models: Lig
 ## Light Gradient-Boosting Machine (LightGBM)
 LightGBM is an open-source gradient boosting framework developed by Microsoft that is designed for speed and efficiency. It is particularly optimized for large datasets and high-performance machine learning tasks. One of the main characteristics of LGBM is that unlike traditional boosting methods, LightGBM selects the most informative samples for training, which reduces computational cost without sacrificing accuracy.  We used the following features for training this model 
 
-
-
+![A person standing at the window](/features_lightGBM1.png)
 
 
 ## Long short-term memory (LSTM)
 LSTM is a type of recurrent neural network (RNN) architecture designed to handle sequential data while mitigating the vanishing gradient problem. It is widely used in applications requiring the modeling of long-term dependencies, such as time series forecasting, natural language processing (NLP) and speech recognition.GBM selects the most informative samples for training, which reduces computational cost without sacrificing accuracy.  We used the following features for training this model 
 
-
+![A person standing at the window](/features_LSTM.png)
 
 # Conclusions (LigthGBM vs LSTM)
 ![A person standing at the window](/comparacion5.png)
