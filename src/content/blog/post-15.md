@@ -12,8 +12,7 @@ seo:
     alt: A person standing at the window
 ---
 
-In this project we aim to predict the percentage of free docks given the historical data of each
-station of Bicing Barcelona.
+This blog is part of the capstone project for the Introduction to Data Science and Artificial Intelligence course. In this project we aim to predict the percentage of free docks given the historical data of each station of Bicing Barcelona.
 
 # Bicing Barcelona
 
