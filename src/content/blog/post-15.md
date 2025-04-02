@@ -50,7 +50,7 @@ Some columns and rows were droped from the datasets, either because they were em
 
 
 # Development of machine learning models
-To predict the percentage of free docks we used two machine learning models: Light Gradient-Boosting Machine (LGBM) and Long short-term memory (LSTM). We trained both models with data from years 2022, 2023 (January-December) and 2024 (January-May), and we tested the models with data from 2024 (June-December),
+To predict the percentage of free docks we used two machine learning models: Light Gradient-Boosting Machine (LGBM) and Long short-term memory (LSTM). We trained both models with data from years 2022, 2023 and we tested the models with data from 2024.
 
 ## Light Gradient-Boosting Machine (LightGBM)
 LightGBM is an open-source gradient boosting framework developed by Microsoft that is designed for speed and efficiency. It is particularly optimized for large datasets and high-performance machine learning tasks. One of the main characteristics of LGBM is that unlike traditional boosting methods, LightGBM selects the most informative samples for training, which reduces computational cost without sacrificing accuracy.  We used the following features for training this model 
@@ -64,8 +64,13 @@ LSTM is a type of recurrent neural network (RNN) architecture designed to handle
 ![A person standing at the window](/features_LSTM.png)
 
 # Conclusions (LigthGBM vs LSTM)
-![A person standing at the window](/comparacion5.png)
+After training both models we obtained the following results
+
 ![A person standing at the window](/comparacion2.png)
 ![A person standing at the window](/comparacion1.png)
 ![A person standing at the window](/comparacion3.png)
 ![A person standing at the window](/comparacion4.png)
+
+The metric we used to evaluate the effectiveness of the models is the Root Mean Square Error (RMSE).
+
+![A person standing at the window](/comparacion5.png)
