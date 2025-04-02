@@ -76,3 +76,7 @@ After training both models we obtained the following results
 The metric we used to evaluate the effectiveness of the models is the Root Mean Square Error (RMSE).
 
 ![A person standing at the window](/comparacion5.png)
+
+# Create a Streamlit app to visualize the predictions
+
+https://streamlit.botello.me/
