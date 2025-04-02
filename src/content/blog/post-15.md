@@ -13,7 +13,6 @@ seo:
 ---
 
 This blog is part of the capstone project for the Introduction to Data Science and Artificial Intelligence course. In this project we aim to predict the percentage of free docks given the historical data of each station of Bicing Barcelona.
-![Bike](/bicing2.jpg)
 
 
 # Bicing Barcelona
@@ -22,6 +21,7 @@ Bicing Barcelona is a bicycle rental service introduced in 2007 in the city of B
 
 To use Bicing Barcelona, users must register on the platform and select the type of bicycle they wish to rent. The service offers different rental options tailored to each user's needs, whether for short trips or extended use. Bicing Barcelona contributes to sustainable mobility in the city by reducing traffic congestion and promoting a healthy lifestyle among its users.
 
+![Bike](/bicing2.jpg)
 
 # The Challenge
 Although Bicing offers many benefits, its effectiveness depends on the number of bikes and docking spaces available at each station. Users may face difficulties if, upon arrival, they find no bikes to use or spaces to return them. This issue is more noticeable during peak hours and in areas with high demand. To ensure a better experience and more efficient service operation, it is essential to accurately predict the availability of bikes and docking spaces.
