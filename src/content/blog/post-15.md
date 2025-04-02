@@ -44,25 +44,29 @@ The datasets contained data about bike availability from the years 2020, 2021, 2
 ![A person standing at the window](/Dataset1.png)
 ![A person standing at the window](/Dataset2.png)
 
-Some columns and rows were droped from the datasets, either because they were empty, they had NAN values, or they didn't provide relevant information for the purpose of this project. Since weather conditions can influence whether a person chooses to use a bicycle as a means of transportation, we added weather information to the datasets.
+Some columns and rows were droped from the datasets, either because they were empty, they had NAN values, or they didn't provide relevant information for the purpose of this project. Since weather conditions can influence whether a person chooses to use a bicycle as a means of transportation, we added weather information to the datasets. 
 
 ![A person standing at the window](/Dataset3.png)
 
+
 # Development of machine learning models
-To predict the percentage of free docks we used two machine learning models: Light Gradient-Boosting Machine (LGBM) and Long short-term memory (LSTM).
+To predict the percentage of free docks we used two machine learning models: Light Gradient-Boosting Machine (LGBM) and Long short-term memory (LSTM). We trained both models with data from years 2022, 2023 (January-December) and 2024 (January-May), and we tested the models with data from 2024 (June-December),
 
 ## Light Gradient-Boosting Machine (LightGBM)
-LightGBM is an open-source gradient boosting framework developed by Microsoft that is designed for speed and efficiency. It is particularly optimized for large datasets and high-performance machine learning tasks. One of the main characteristics of LGBM is that unlike traditional boosting methods, LightGBM selects the most informative samples for training, which reduces computational cost without sacrificing accuracy.
+LightGBM is an open-source gradient boosting framework developed by Microsoft that is designed for speed and efficiency. It is particularly optimized for large datasets and high-performance machine learning tasks. One of the main characteristics of LGBM is that unlike traditional boosting methods, LightGBM selects the most informative samples for training, which reduces computational cost without sacrificing accuracy.  We used the following features for training this model 
+
+
+
 
 
 ## Long short-term memory (LSTM)
-LSTM is a type of recurrent neural network (RNN) architecture designed to handle sequential data while mitigating the vanishing gradient problem. It is widely used in applications requiring the modeling of long-term dependencies, such as time series forecasting, natural language processing (NLP) and speech recognition.
+LSTM is a type of recurrent neural network (RNN) architecture designed to handle sequential data while mitigating the vanishing gradient problem. It is widely used in applications requiring the modeling of long-term dependencies, such as time series forecasting, natural language processing (NLP) and speech recognition.GBM selects the most informative samples for training, which reduces computational cost without sacrificing accuracy.  We used the following features for training this model 
 
 
 
-## Conclusions (LigthGBM vs LSTM)
+# Conclusions (LigthGBM vs LSTM)
+![A person standing at the window](/comparacion5.png)
 ![A person standing at the window](/comparacion2.png)
 ![A person standing at the window](/comparacion1.png)
 ![A person standing at the window](/comparacion3.png)
 ![A person standing at the window](/comparacion4.png)
-![A person standing at the window](/comparacion5.png)
