@@ -15,17 +15,17 @@ seo:
 In this project we aim to predict the percentage of free docks given the historical data of each
 station of Bicing Barcelona.
 
-## What is Bicing Barcelona?
+# What is Bicing Barcelona?
 
 Bicing Barcelona is a bicycle rental service introduced in 2007 in the city of Barcelona, designed to provide residents and visitors with a sustainable and practical way to get around the city. The system allows users to rent bicycles from various strategic points across Barcelona, making this eco-friendly mode of transportation more accessible.
 
 To use Bicing Barcelona, users must register on the platform and select the type of bicycle they wish to rent. The service offers different rental options tailored to each user's needs, whether for short trips or extended use. Bicing Barcelona contributes to sustainable mobility in the city by reducing traffic congestion and promoting a healthy lifestyle among its users.
 
 
-## The Challenge
+# The Challenge
 Although Bicing offers many benefits, its effectiveness depends on the number of bikes and docking spaces available at each station. Users may face difficulties if, upon arrival, they find no bikes to use or spaces to return them. This issue is more noticeable during peak hours and in areas with high demand. To ensure a better experience and more efficient service operation, it is essential to accurately predict the availability of bikes and docking spaces.
 
-## The project
+# The project
 
 In this project, we aim to develop a predictive model to Predict the percentage of free docks at Bicing stations in Barcelona given the historical data of each station, furthermore we leveraged other geographical and temporal data. To achieve this goal we followed the next steps:
 
@@ -37,7 +37,7 @@ Predicts the availability of free docks
 
 Create a Streamlit app to visualize the predictions
 
-## Data collection and cleaning
+# Data collection and cleaning
 We began downloading the datasets from the "Open Data BCN" website:
 
 https://opendata-ajuntament.barcelona.cat/data/ca/dataset/estat-estacions-bicing
@@ -51,13 +51,13 @@ Some colummns and rows were droped from the datasets, either because they were e
 
 ![A person standing at the window](/Dataset3.png)
 
-## Development of machine learning models
+# Development of machine learning models
 To predict the number of available spaces we used two machine learning models: Light Gradient-Boosting Machine (LGBM) and Long short-term memory (LSTM).
 
-# Light Gradient-Boosting Machine (LGBM)
+## Light Gradient-Boosting Machine (LGBM)
 
-### Long short-term memory (LSTM)
 
-## Predict the availability of free docks
+## Long short-term memory (LSTM)
+
 
 ## Create a Streamlit app to visualize the predictions
