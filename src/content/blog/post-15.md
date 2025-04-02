@@ -65,3 +65,4 @@ LSTM is a type of recurrent neural network (RNN) architecture designed to handle
 ![A person standing at the window](/comparacion1.png)
 ![A person standing at the window](/comparacion3.png)
 ![A person standing at the window](/comparacion4.png)
+![A person standing at the window](/comparacion5.png)
