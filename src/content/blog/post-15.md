@@ -1,5 +1,5 @@
 ---
-title: Bike Availability Prediction
+title: Bike Availability Prediction for Bicing Barcelona
 excerpt: Intoduccion
 publishDate: 'Apr 01 2025'
 tags:
@@ -12,7 +12,8 @@ seo:
     alt: A person standing at the window
 ---
 
-
+In this project we aim to predict the percentage of free docks given the historical data of each
+station of Bicing Barcelona.
 
 ## What is Bicing Barcelona?
 
@@ -51,6 +52,11 @@ Some colummns and rows were droped from the datasets, either because they were e
 ![A person standing at the window](/Dataset3.png)
 
 ## Development of machine learning models
+To predict the number of available spaces we used two machine learning models: Light Gradient-Boosting Machine (LGBM) and Long short-term memory (LSTM).
+
+# Light Gradient-Boosting Machine (LGBM)
+
+### Long short-term memory (LSTM)
 
 ## Predict the availability of free docks
 
